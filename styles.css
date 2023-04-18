@@ -1,2 +1,35 @@
 
 /* Your CSS Code here. */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:cursive;
+}
+.first{
+    border:2px solid black;
+    width: fit-content;
+}
+.second{
+    border:15px solid rgb(40, 40, 196);
+    /* display: flex; */
+    width: fit-content;
+    margin:20px;
+}
+.third{
+    padding:50px;
+    border:2px solid rgb(0, 125, 220);
+    background-color:lightblue;
+}
+.fourth{
+    width:300px;
+    background-color:lightblue;
+   padding:1.6rem 0.6rem;
+   border:2px solid black;
+   /* margin: auto; */
+}
+.fifth{
+    border:2px dashed black;
+    margin: auto;
+}
+
