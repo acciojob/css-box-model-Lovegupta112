@@ -6,10 +6,9 @@
   box-sizing: border-box;
   font-family:cursive;
 }
-.first{
+.fourth{
     border:2px solid black;
     width: fit-content;
-	width:300px;
 }
 .second{
     border:15px solid rgb(40, 40, 196);
@@ -22,9 +21,9 @@
     border:2px solid rgb(0, 125, 220);
     background-color:lightblue;
 }
-.fourth{
-/*     width:300px; */
-    background-color:lightblue;
+.first{
+    width:300px;
+    background-color:rgb(173, 216, 230);
    padding:1.6rem 0.6rem;
    border:2px solid black;
    /* margin: auto; */
