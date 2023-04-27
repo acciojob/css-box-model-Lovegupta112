@@ -6,7 +6,7 @@
   box-sizing: border-box;
   font-family:cursive;
 }
-.fourth{
+.first{
     border:2px solid black;
     width: fit-content;
 }
@@ -21,7 +21,7 @@
     border:2px solid rgb(0, 125, 220);
     background-color:lightblue;
 }
-.first{
+.fourth{
     width:300px;
     background-color:rgb(173, 216, 230);
    padding:1.6rem 0.6rem;
@@ -32,5 +32,13 @@
     border:2px dashed black;
     margin: auto;
 	font-size:13px;
+}
+
+.main{
+	margin:20px;
+	border:15px solid blue;
+	padding:50px;
+	background-color:lightblue;
+	width:300px;
 }
 
