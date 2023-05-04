@@ -1,18 +1,15 @@
 
 /* Your CSS Code here. */
-*{
+/* *{
   margin: 0;
   padding: 0;
-/*   box-sizing: border-box; */
-/*   font-family:cursive; */
-}
-.first{
+} */
+/* .first{
     border:2px solid black;
     width: fit-content;
 }
 .second{
     border:15px solid rgb(40, 40, 196);
-    /* display: flex; */
     width: fit-content;
     margin:20px;
 }
@@ -26,15 +23,14 @@
     background-color:rgb(173, 216, 230);
    padding:1.6rem 0.6rem;
    border:2px solid black;
-   /* margin: auto; */
 }
 .fifth{
     border:2px dashed black;
     margin: auto;
 	font-size:13px;
-}
+} */
 
-.main{
+.demo{
 	margin:20px;
 	border:15px solid blue;
 	padding:50px;
